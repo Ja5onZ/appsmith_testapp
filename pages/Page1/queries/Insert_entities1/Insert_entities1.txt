@@ -1,0 +1,1 @@
+INSERT INTO entities (namespace_id,name) VALUES ('{{(Table1.newRow || {}).namespace_id}}','{{(Table1.newRow || {}).name}}')
